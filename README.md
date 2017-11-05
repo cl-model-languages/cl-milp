@@ -1,5 +1,10 @@
 
-# Cl-Milp - Common Interface to the MILP solvers (e.g. CPLEX, Globi, GLPK, LP_SOLVE) from Common Lisp
+# Cl-Milp - Common Interface to the MILP solvers from Common Lisp
+
+This library provides a transpiler from S-expression to
+Mixed Integer / Linear Programming language,
+and sub-libraries that invoke Stat-of-the-Art commercial/open-source MILP solvers
+such as CPLEX, Globi, GLPK, LP_SOLVE.
 
 ## Usage
 
